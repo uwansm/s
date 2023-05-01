@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=3000000
+https://kozoom-tv-tcl.evrideo.tv/ae60ea81-15c8-4a4a-97e3-fa45c64431d5_0_HLS/video_1080p_1000014572.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=3000000
+https://kozoom-tv-vivalive.evrideo.tv/ae60ea81-15c8-4a4a-97e3-fa45c64431d5_0_HLS/video_1080p_1000014572.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=3000000
+https://kozoom-tv-local-now.evrideo.tv/ae60ea81-15c8-4a4a-97e3-fa45c64431d5_0_HLS/video_1080p_1000014572.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=3000000
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kozoom-tv/manifest.m3u8

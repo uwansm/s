@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=3000000
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=3000000
+http://mzimer.amazzin.pw/iptv/ADYDWLKVER8U7V/6122/index.m3u8
