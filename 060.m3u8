@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=3000000
+https://cnm-cd.otteravision.com/out/v1/1c64e684fecd44789edb52737a25e66b/index_5.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=3000000
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2013

@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=3000000
+http://freeview.ashttp9.visionip.tv/live/sports_tonight_live-sports_tonight_live-promo-hsslive-25f-16x9-SD/chunklist.m3u8

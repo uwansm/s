@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=3000000
+https://thm-it.otteravision.com/thm/it/it_720p_high.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=3000000
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010

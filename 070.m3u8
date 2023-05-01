@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=3000000
+http://vtsstr4.sctv.vn:1935/live/SCTV22_HD_new.smil/chunks.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=3000000
+http://vtsstr4.tv24.vn:1935/live/SCTV22_HD_new.smil/chunks.m3u8

@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=3000000
+https://viewmedia-hls-2.unreel.me/live_016/SD/live16_3/high/chunks.m3u8

@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=3000000
+https://tripleb-billiardtv.amagi.tv/hls/amagi_hls_data_klowdtvAA-tripleb-billiardtv/CDN/1280x720_3000000/index.m3u8
