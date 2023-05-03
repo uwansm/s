@@ -3,6 +3,6 @@
 #EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=3000000
 https://delivery.ksa.my.id/stream/spotv1/playlist.m3u8?token=ym1wtrp
 #EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=3000000
-http://185.243.7.13/play/live.php?mac=00:1a:79:45:5e:9a&stream=683117&extension=m3u8
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683117&extension=m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=3000000
-http://185.243.7.13/play/live.php?mac=00:1a:79:45:5e:9a&stream=941564&extension=m3u8
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=941564&extension=m3u8
