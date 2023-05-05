@@ -1,5 +1,4 @@
 #EXTM3U
-#EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=3000000
 https://delivery.ksa.my.id/stream/spotv2/playlist.m3u8?token=ym1wtrp
 #EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=3000000
