@@ -1,0 +1,15 @@
+#EXTM3U
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=3000000
+https://delivery.ksa.my.id/stream/spotv1/playlist.m3u8?token=ym1wtrp
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=3000000
+http://4ksuper.live/play/live.php?mac=00:1a:79:50:63:9e&stream=683117&extension=m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=3000000
+http://tvt3.xyz/play/live.php?mac=00:1a:79:00:04:02&stream=115304&extension=m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=3000000
+http://tvt3.xyz/play/live.php?mac=00:1a:79:00:04:02&stream=115427&extension=m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=3000000
+http://tvt3.xyz/play/live.php?mac=00:1a:79:00:04:02&stream=115682&extension=m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=3000000
+http://tvt3.xyz/play/live.php?mac=00:1a:79:00:04:02&stream=115684&extension=m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=3000000
+http://4ksuper.live/play/live.php?mac=00:1a:79:50:63:9e&stream=941564&extension=m3u8
