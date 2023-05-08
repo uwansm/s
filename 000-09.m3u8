@@ -1,0 +1,3 @@
+#EXTM3U
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=3000000
+http://applyrenderflow.h1ott.com/play/live.php?mac=00:1a:79:6f:5a:5d&stream=683117&extension=m3u8
