@@ -1,0 +1,3 @@
+#EXTM3U
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=3000000
+http://line.liontv.site/play/live.php?mac=00:1a:79:1c:09:36&stream=941564&extension=m3u8
