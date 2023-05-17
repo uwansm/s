@@ -1,5 +1,0 @@
-#EXTM3U
-#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=3000000
-http://185.105.4.106:1935/live/bahrainsportstwo/chunks.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=3000000
-http://185.105.4.106:1935/live/ngrp:bahrainsportstwo_all/chunklist_b1700000.m3u8
