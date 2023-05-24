@@ -1,0 +1,3 @@
+#EXTM3U
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=3000000
+http://4ksuper.live/play/live.php?mac=00:1a:79:50:63:9e&stream=994887&extension=m3u8
