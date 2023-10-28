@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=7373779, CODECS="avc1.64002A,mp4a.40.2", AUDIO="audio_0"
+https://food-dlvr-ott.akamaized.net/primary/2/39a7e16da8744ad7a3fbeecf7c6473ed/index_27.m3u8
+#EXT-X-MEDIA:TYPE=AUDIO, URI="https://food-dlvr-ott.akamaized.net/primary/2/39a7e16da8744ad7a3fbeecf7c6473ed/index_8.m3u8"

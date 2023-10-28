@@ -1,0 +1,3 @@
+#EXTM3U
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=3000000
+http://tvt3.xyz/play/live.php?mac=10:27:be:05:82:d6&stream=115614&extension=m3u8
